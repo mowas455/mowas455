@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Mowniesh Asokan
+<img src="https://github.com/mowas455/mowas455/blob/main/banner.png" width="400"/>
 
 I'm a passionate **Data Scientist** and **Data Engineer** with experience in building end-to-end data pipelines, developing machine learning models, and deploying scalable analytics solutions.
-
-<img src="https://github.com/mowas455/mowas455/blob/main/banner.png" width="500"/>
 
 ### 💼 What I Do
 - 🧠 Machine Learning & Deep Learning (NLP, Computer Vision, Generative AI, LLM)
