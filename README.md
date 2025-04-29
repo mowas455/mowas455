@@ -23,6 +23,9 @@ I'm a passionate **Data Scientist** and **Data Engineer** with experience in bui
 - **Text Summarization Web App**  
   Built using Streamlit, HuggingFace Transformers, Dockerized for deployment.
 
+- **Stock Forecasting with LSTM and ARIMA**  
+  Developed a hybrid model combining a Deep Neural Network (LSTM) and a statistical ARIMA model to forecast S&P 500 index movements.
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mowasok/)
 
