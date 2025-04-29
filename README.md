@@ -2,15 +2,19 @@
 
 I'm a passionate **Data Scientist** and **Data Engineer** with experience in building end-to-end data pipelines, developing machine learning models, and deploying scalable analytics solutions.
 
-<div align="center">
-  <img src="https://img.icons8.com/ios-filled/100/brain.png" alt="Machine Learning" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/artificial-intelligence.png" alt="Data Science" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/python.png" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/pycharm.png" alt="PySpark" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/azure-1.png" alt="Azure" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/google-cloud.png" alt="GCP" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/100/amazon-web-services.png" alt="AWS" width="60" height="60"/>
-</div>
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/machine-learning.png" alt="Machine Learning" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Data Science" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachepyspark/apachepyspark-original-wordmark.svg" alt="PySpark" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/azure-1.png" alt="Azure" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/google-cloud.png" alt="GCP" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="60" height="60"/>
+</p>
 
 ---
 
