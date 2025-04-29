@@ -7,14 +7,15 @@ I'm a passionate **Data Scientist** and **Data Engineer** with experience in bui
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/machine-learning.png" alt="Machine Learning" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Data Science" width="60" height="60"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-machine-learning-artificial-intelligence-flatart-icons-outline-flatarticons.png" alt="Machine Learning" width="60" height="60"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-technology-flaticons-lineal-color-flat-icons.png" alt="Data Science" width="60" height="60"/>
   <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachepyspark/apachepyspark-original-wordmark.svg" alt="PySpark" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60"/>
   <img src="https://img.icons8.com/color/96/azure-1.png" alt="Azure" width="60" height="60"/>
   <img src="https://img.icons8.com/color/96/google-cloud.png" alt="GCP" width="60" height="60"/>
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="60" height="60"/>
 </p>
+
 
 ---
 
